@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 91a75b5aa611e6648809b1eef87299e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 336970
+  packageName: FREE Starter Pack - Sidekick Modular Characters by Synty
+  packageVersion: 1.0.1
+  assetPath: Assets/Synty/SidekickCharacters/Scripts/Runtime/Filters/FilterItem.cs
+  uploadId: 803948

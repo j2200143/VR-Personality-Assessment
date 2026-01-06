@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5cee033315236542b5c4a55d3477046, type: 3}
+  m_Name: 1Task_Uncertainty_N1
+  m_EditorClassIdentifier: 
+  taskNum: 1
+  sceneName: 1Task_Uncertainty_N1
+  personalityFacetArray: 18000000
+  beforeTaskMessages:
+  - "\u907A\u8DE1\u63A2\u7D22\u4E2D\u3001\u5BC6\u5BA4\u306B\u9589\u3058\u8FBC\u3081\u3089\u308C\u307E\u3057\u305F"
+  - "\u30EC\u30D0\u30FC\u3092\u4E0B\u3052\u308C\u3070\u6249\u304C\u958B\u304F\u3067\u3057\u3087\u3046"
+  - "\u305F\u3060\u3001\u3069\u3061\u3089\u304C\u5B89\u5168\u306B\u6249\u3092\u958B\u304F\u30EC\u30D0\u30FC\u304B\u306F\u3001\u79C1\u306B\u3082\u5206\u304B\u308A\u307E\u305B\u3093"
+  - "\u9593\u9055\u3063\u305F\u65B9\u3092\u9078\u3079\u3070\u4F55\u304C\u8D77\u3053\u308B\u304B\u2026"
+  afterTaskMessages: []
+  beforeTaskManualMessages:
+  - "\u6D1E\u7A9F\u63A2\u7D22\u4E2D\u3001\u5BC6\u5BA4\u306B\u9589\u3058\u8FBC\u3081\u3089\u308C\u307E\u3057\u305F"
+  - "\u30EC\u30D0\u30FC\u3092\u4E0B\u3052\u308C\u3070\u6249\u304C\u958B\u304F\u3067\u3057\u3087\u3046"
+  - "\u305F\u3060\u3001\u3069\u3061\u3089\u304C\u5B89\u5168\u306B\u6249\u3092\u958B\u304F\u30EC\u30D0\u30FC\u304B\u306F\u3001\u79C1\u306B\u3082\u5206\u304B\u308A\u307E\u305B\u3093"
+  - "\u9593\u9055\u3063\u305F\u65B9\u3092\u9078\u3079\u3070\u4F55\u304C\u8D77\u3053\u308B\u304B\u2026"
+  afterTaskManualMessages: []

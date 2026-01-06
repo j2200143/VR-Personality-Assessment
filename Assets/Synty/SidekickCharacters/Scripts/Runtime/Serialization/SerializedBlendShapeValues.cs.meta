@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3c17989085e86534ba82cb3778585e92
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 336970
+  packageName: FREE Starter Pack - Sidekick Modular Characters by Synty
+  packageVersion: 1.0.1
+  assetPath: Assets/Synty/SidekickCharacters/Scripts/Runtime/Serialization/SerializedBlendShapeValues.cs
+  uploadId: 803948

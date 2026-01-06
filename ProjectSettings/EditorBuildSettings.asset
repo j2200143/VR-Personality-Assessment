@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InitialStoryScene.unity
+    guid: 3673385257b5e0643a0f1057104c742a
+  - enabled: 1
+    path: Assets/Samples/XR Interaction Toolkit/3.2.2/Starter Assets/DemoScene.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
+  - enabled: 1
+    path: Assets/Scenes/EndStoryScene.unity
+    guid: 65d2ee5b7367e04478fc193c6e10c901
+  - enabled: 1
+    path: Assets/Scenes/ChoiceTaskScene.unity
+    guid: 00b39d43357ae8b43b8fb6df3ad60a68
+  - enabled: 1
+    path: Assets/Scenes/1Task_Uncertainty_N1.unity
+    guid: 3b28f54454f91bc49886ac2b972056e7
+  - enabled: 1
+    path: Assets/Scenes/2Task_Anger_N2.unity
+    guid: ce496704d866b9d47b55b7873bbc70b8
+  - enabled: 1
+    path: Assets/Scenes/3Task_Depression_N3.unity
+    guid: b24b329d38bf8084994de32c6822f639
+  - enabled: 1
+    path: Assets/Scenes/4Task_PhotoPosition_N4.unity
+    guid: c0cd308ac031a7e4d81aa640a9736e29
+  - enabled: 1
+    path: Assets/Scenes/5Task_Immoderation_N5.unity
+    guid: d9a42d9891e589f43a3537c2bd13a577
+  - enabled: 1
+    path: Assets/Scenes/6Task_Vulnerability_N6.unity
+    guid: 7046e4cfd6d1de442a0226977ae8c803
+  - enabled: 1
+    path: Assets/Scenes/7Task_AddFire_E1.unity
+    guid: e2c29e41019e2b747b53821298ba96f5
+  - enabled: 1
+    path: Assets/Scenes/8Task_GroupSolo_E2.unity
+    guid: 37f5e67d57d9dcc4a89512469a15f543
+  - enabled: 1
+    path: Assets/Scenes/9Task_LeadAndFollow_E3_A4.unity
+    guid: 37f8ece6d1b2c4b4ba0074c3cf54f8dd
+  - enabled: 1
+    path: Assets/Scenes/10Task_ActivetyLevel_E4.unity
+    guid: 5044c45918740864891ed616093523c3
+  - enabled: 1
+    path: Assets/Scenes/11Task_Testontheload_E5_A6.unity
+    guid: d339e6a873382b341927fb3d2a453194
+  - enabled: 1
+    path: Assets/Scenes/12Task_Cheerfulness_E6.unity
+    guid: 7806a4456302362438a41e30e7a06efa
+  - enabled: 1
+    path: Assets/Scenes/13Task_Imagination_O1.unity
+    guid: cb793710d6dd7044c91f857ad307a2eb
+  - enabled: 1
+    path: Assets/Scenes/14Task_Inventory_O2_C2.unity
+    guid: ccc29d159bac03d49a6b5e5c51092a63
+  - enabled: 1
+    path: Assets/Scenes/15Task_LostItem_O3.unity
+    guid: 413d0a8614cab1648847a483e0d3a713
+  - enabled: 1
+    path: Assets/Scenes/16Task_MakeItem_O4.unity
+    guid: fd91f7c52a9fedc4580278d8c3262138
+  - enabled: 1
+    path: Assets/Scenes/17Task_WisdomTrial_O5.unity
+    guid: b585e0c157257f245ab3a059c222d981
+  - enabled: 1
+    path: Assets/Scenes/18Task_JudgmentButton_O6.unity
+    guid: 310f69dd71ed4414688d6f7ee395eaec
+  - enabled: 1
+    path: Assets/Scenes/19Task_PlazaInteraction_A1_A3.unity
+    guid: 1b2cf82f6adac4147babec8f6357d618
+  - enabled: 1
+    path: Assets/Scenes/20Task_RewardSharing_A2.unity
+    guid: 0b4048d19e1929145b976516970ca175
+  - enabled: 1
+    path: Assets/Scenes/21Task_Modesty_A5.unity
+    guid: 06afadc9aa77ce346a8bbddc63bf1417
+  - enabled: 1
+    path: Assets/Scenes/22Task_PurchaseItem_C1.unity
+    guid: 79d414dfd76272a45a6ad4ef2c1fda1b
+  - enabled: 1
+    path: Assets/Scenes/23Task_Delivery_C3.unity
+    guid: 15efb175c2d9094408ade675e7d1b884
+  - enabled: 1
+    path: Assets/Scenes/24Task_AchievementStriving_C4.unity
+    guid: 01f97c999ad727347bf02f5c0225e84d
+  - enabled: 1
+    path: Assets/Scenes/25Task_FullPreparation_C5.unity
+    guid: b4a82732c04902d42b2b508b85775a8a
+  - enabled: 1
+    path: Assets/Scenes/26Task_ChoiceWeapon_C6.unity
+    guid: b9e428b4f45877c47930afabb5bae2a9
+  - enabled: 0
+    path: Assets/Scenes/ChoiceWeaponTaskScene.unity
+    guid: 279283115455d7144bdcca982167e330
+  m_configObjects:
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: b0257d17c62d7334e8fd81c121acdf75, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f81a2cc9270fbc347b9cd7ac8574b2c5, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d7594fad8d2e9644cb0b3f87318c22ad, type: 2}
+  m_UseUCBPForAssetBundles: 0

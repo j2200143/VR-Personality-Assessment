@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a2dcee563e67d4c1b948cbf8bde1afb6
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 336970
+  packageName: FREE Starter Pack - Sidekick Modular Characters by Synty
+  packageVersion: 1.0.1
+  assetPath: Assets/Synty/SidekickCharacters/Plugins/unity-sqlite-net-1.2.4/package.json
+  uploadId: 803948

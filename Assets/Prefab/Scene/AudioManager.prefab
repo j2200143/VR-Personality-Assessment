@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &14178412053925967
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7580969910153757324}
+  - component: {fileID: 2412451758856063519}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7580969910153757324
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 14178412053925967}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.55, y: 3.0900002, z: 4.58}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2412451758856063519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 14178412053925967}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21ed9bd38034bd04d90ee0480b6fedf7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundMiss: {fileID: 8300000, guid: 2d671e129260c3648ba8ec633c48df6d, type: 3}
+  soundInspectable: {fileID: 8300000, guid: 8c5137632ee8d50459fc7f85739b6fd6, type: 3}
+  soundCancel: {fileID: 8300000, guid: d2c0f6f4ca73d934e96e8dc4ef5812d8, type: 3}
+  soundStoryMessage: {fileID: 8300000, guid: 8e9b6a522ceeed843a15f7b6f7725776, type: 3}
+  soundInventory: {fileID: 8300000, guid: 6cdd386f4011aa74c848072e2c187082, type: 3}
+  soundClick: {fileID: 8300000, guid: fce132bbe0c87e64c95474fed429ccd3, type: 3}
+  soundWalk: {fileID: 8300000, guid: 6f885b1e4d3866247abdb6a3e0a31b91, type: 3}
+  soundWeapon: {fileID: 8300000, guid: c39e6cef8b6dd7d4d91ddb9073118841, type: 3}
+  soundDrag: {fileID: 8300000, guid: 6dd7b116e3f47e74ea6adef8d76ff06a, type: 3}
+  soundGet: {fileID: 8300000, guid: 69a108aa8c815724db28abaa4b874bfa, type: 3}
+  soundPurchase: {fileID: 8300000, guid: 134d6553f1f9b564fa6292e23d74eefd, type: 3}
+  sound3DButton: {fileID: 8300000, guid: ca448e8ff4ca28f4c841d1e24a1afc1a, type: 3}
+  Normal: 1
+  Half: 0.5
+  Mini: 0.2

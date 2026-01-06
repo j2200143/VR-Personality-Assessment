@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5cee033315236542b5c4a55d3477046, type: 3}
+  m_Name: 3Task_Depression
+  m_EditorClassIdentifier: 
+  taskNum: 3
+  sceneName: 3Task_Depression_N3
+  personalityFacetArray: 1a000000
+  beforeTaskMessages:
+  - "\u30DD\u30FC\u30B7\u30E7\u30F3\u306E\u8ABF\u5408\u3092\u624B\u4F1D\u3063\u3066\u304F\u3060\u3055\u3044"
+  - "\u4E00\u7DD2\u306B\u826F\u3044\u30DD\u30FC\u30B7\u30E7\u30F3\u3092\u4F5C\u308A\u307E\u3057\u3087\u3046"
+  - "\u7AEF\u306B\u3042\u308B[\u9B54\u529B\u306E\u74F6-K]\u3092\u9078\u3093\u3067\u6CE8\u3044\u3067\u304F\u3060\u3055\u3044"
+  afterTaskMessages: []
+  beforeTaskManualMessages:
+  - "\u30DD\u30FC\u30B7\u30E7\u30F3\u306E\u8ABF\u5408\u3092\u624B\u4F1D\u3063\u3066\u304F\u3060\u3055\u3044"
+  - "\u4E00\u7DD2\u306B\u826F\u3044\u30DD\u30FC\u30B7\u30E7\u30F3\u3092\u4F5C\u308A\u307E\u3057\u3087\u3046"
+  - "\u7AEF\u306B\u3042\u308B[\u9B54\u529B\u306E\u74F6-K]\u3092\u9078\u3093\u3067\u6CE8\u3044\u3067\u304F\u3060\u3055\u3044"
+  afterTaskManualMessages: []

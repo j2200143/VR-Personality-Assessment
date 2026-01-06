@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 956373788f9dd55489810c0d6e6d9918
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 336970
+  packageName: FREE Starter Pack - Sidekick Modular Characters by Synty
+  packageVersion: 1.0.1
+  assetPath: Assets/Synty/SidekickCharacters/_Demos/Scripts/ExpressionSwitcher.cs
+  uploadId: 803948

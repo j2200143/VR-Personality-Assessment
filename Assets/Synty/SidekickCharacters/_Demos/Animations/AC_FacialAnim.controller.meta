@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a664a070c2c11f499197102764b941a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 336970
+  packageName: FREE Starter Pack - Sidekick Modular Characters by Synty
+  packageVersion: 1.0.1
+  assetPath: Assets/Synty/SidekickCharacters/_Demos/Animations/AC_FacialAnim.controller
+  uploadId: 803948

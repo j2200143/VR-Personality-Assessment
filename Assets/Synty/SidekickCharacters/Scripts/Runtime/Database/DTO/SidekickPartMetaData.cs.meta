@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0a9bc8817790f2341ae3c31d87d94f72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 336970
+  packageName: FREE Starter Pack - Sidekick Modular Characters by Synty
+  packageVersion: 1.0.1
+  assetPath: Assets/Synty/SidekickCharacters/Scripts/Runtime/Database/DTO/SidekickPartMetaData.cs
+  uploadId: 803948
