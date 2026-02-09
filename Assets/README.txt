@@ -16,6 +16,9 @@ Scene:InitialStoryScene内のStoryManagerオブジェクトのインスペクタ
 Scene:InitialStoryScene内のStoryManagerオブジェクトのインスペクターにて、以下のモード変更ができます。
 ・VR実機モード・PC上でVRのシミュレートモード・PC実行モード
 
+プレイ方法：
+Scene:InitialStorySceneにて、PC上で実行するかもしくはapkファイルでHMDにインストールを行うとプレイできます。
+
 被験者の結果をcsvファイルとして保存：
 Scene:EndStoryScene内のShowScoreUIオブジェクトのインスペクターにて設定してください。
 
