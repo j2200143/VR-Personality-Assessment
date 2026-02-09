@@ -15,7 +15,7 @@ Scene:InitialStoryScene内のStoryManagerオブジェクトのインスペクタ
 実行モードの変更：
 Scene:InitialStoryScene内のStoryManagerオブジェクトのインスペクターにて、以下のモード変更ができます。
 ・VR実機モード・PC上でVRのシミュレートモード・PC実行モード
-
+推奨：VR実機モード、PC実行モード
 プレイ方法：
 Scene:InitialStorySceneにて、PC上で実行するかもしくはapkファイルでHMDにインストールを行うとプレイできます。
 
